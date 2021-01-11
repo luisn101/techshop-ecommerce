@@ -1,0 +1,35 @@
+.btn-cart {
+    color: #070d59;
+    display: block;
+    margin: 1.5em auto 0;
+    border-radius: 3px;
+    padding: 1em 1.5em;
+    border-style: none;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-control {
+    color: #070d59;
+    margin: 1.5em auto 0;
+    border-radius: 3px;
+    padding: .3em .8em;
+    border-style: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-cart:focus,
+.btn-cart:hover,
+.btn-control:focus,
+.btn-control:hover {
+    color: #f6f5f5;
+    background: #ee6f57;
+}
+
+.counter {
+    margin: 0 4em;
+    color: #070d59;
+}

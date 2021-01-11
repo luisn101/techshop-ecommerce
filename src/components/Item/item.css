@@ -1,0 +1,27 @@
+.fa-spin {
+    font-size: 2rem;
+    margin-top: 70px;
+}
+
+.columns-items {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    font-size: 1.4rem;
+    text-align: left;
+    width: 300px;
+    margin: 1em 0 0 0;
+    padding: 2em 0 1em 0;
+}
+
+.card-image {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}

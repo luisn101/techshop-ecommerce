@@ -1,0 +1,134 @@
+.columns-cart {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.img-cart {
+    width: 150px;
+}
+
+.column-item-title {
+    text-align: left;
+    font-size: 1.3rem;
+}
+
+.column-quantity {
+    font-size: 1.1rem;
+}
+
+.empty-cart {
+    font-size: 1.5rem;
+}
+
+.empty-cart h3 {
+    margin: 2em 0;
+}
+
+.link {
+    color: #070d59;
+    font-size: 1.2rem;
+    padding: .5em .9em;
+    background: #fff;
+    border: 1px solid #070d59;
+}
+
+.link:hover,
+.link:focus {
+    color: #ee6f57;
+    border: 1px solid #ee6f57;
+}
+
+.btn-clear-cart {
+    color: #070d59;
+    margin: 1.5em auto;
+    border-radius: 3px;
+    padding: 1em 2em;
+    border-style: none;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-clear-cart:hover,
+.btn-clear-cart:focus {
+    color: #f6f5f5;
+    background: #ee6f57;
+}
+
+.btn-add-item {
+    color: #070d59;
+    margin: 1em 0 1em 3em;
+    border-radius: 3px;
+    padding: .52em 1em;
+    border-style: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-add-item:hover,
+.btn-add-item:focus {
+    color: #f6f5f5;
+    background: #ee6f57;
+}
+
+.btn-remove-item {
+    color: #070d59;
+    margin: 1em 0 1em 1.5em;
+    border-radius: 3px;
+    padding: 1em 1.5em;
+    border-style: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-remove-item:hover,
+.btn-remove-item:focus {
+    color: #f6f5f5;
+    background: #ee6f57;
+}
+
+.column-total {
+    text-align: right;
+    margin: 0 3em;
+}
+
+.total {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.btn-clear-cart {
+    margin-right: 2em;
+}
+
+.btn-buy {
+    color: #070d59;
+    margin: 1.5em auto;
+    border-radius: 3px;
+    padding: 1em 2em;
+    border-style: none;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-buy:hover,
+.btn-buy:focus {
+    color: #f6f5f5;
+    background: #ee6f57;
+}
+
+.title-orden {
+    color: #1f3c88;
+    margin: 1.5em;
+}
+
+#form-name,
+#form-phone,
+#form-email,
+#check-email {
+    padding: .5em;
+    margin-bottom: 1em;
+    width: 220px;
+}
+

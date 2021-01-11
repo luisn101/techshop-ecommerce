@@ -1,0 +1,38 @@
+.Navbar {
+    display: flex;
+    width: 100%;
+    background: #f6f5f5;
+    height: 15vh;
+    margin: 0 auto;
+    padding: 0 5em;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Navbar h1 {
+    font-size: 2.3rem;
+    color: #070d59;
+}
+
+.title-span {
+    color: #ee6f57;
+}
+
+.navbar-list {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 1.2rem;
+    list-style: none;
+}
+
+.navbar-list a {
+    text-decoration: none;
+    color:#070d59;
+    margin-left: 3em;
+}
+
+.navbar-list a:hover,
+.navbar-list a:focus {
+    color: #ee6f57;
+}

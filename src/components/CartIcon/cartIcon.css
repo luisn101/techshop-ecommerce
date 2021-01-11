@@ -1,0 +1,8 @@
+.cart-icon-container {
+    display: inline;
+}
+
+.cart-amount {
+    font-size: 1rem;
+    padding: 0 3px 0;
+}
